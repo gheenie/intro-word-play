@@ -15,7 +15,7 @@ Good luck 😄
 
 4. Create a file called the `reversed_words.txt` with all the of the words from `word_list` but in reverse order. 
 
-5. Create a file called `3_vowels.txt` featuring all the words in the list that contain exactly 3 vowels.
+5. Create a file called `3_or_more_vowels.txt` featuring all the words in the list that contain 3 or more vowels.
 
 6. Create a file called `b--.txt` with all the words starting with the letter b and ending in exactly 2 vowels.
 
