@@ -13,7 +13,7 @@ Good luck 😄
 
 3. Create a file called `word_count.txt` containing a count of all the words in the `word_list`.
 
-4. Create a file called the `reversed_words.txt`. 
+4. Create a file called the `reversed_words.txt` with all the of the words from `word_list` but in reverse order. 
 
 5. Create a file called `3_vowels.txt` featuring all the words in the list that contain exactly 3 vowels.
 
