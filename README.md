@@ -13,11 +13,11 @@ Good luck 😄
 
 3. Create a file called `word_count.txt` containing a count of all the words in the `word_list`.
 
-4. Create a file called `b--.txt` with all the words starting with the letter b and ending in exactly 2 vowels.
+4. Create a file called the `reversed_words.txt`. 
 
-5. Create a file called the `reversed_words.txt`. 
+5. Create a file called `3_vowels.txt` featuring all the words in the list that contain exactly 3 vowels.
 
-6. Create a file called `3_vowels.txt` featuring all the words in the list that contain exactly 3 vowels.
+6. Create a file called `b--.txt` with all the words starting with the letter b and ending in exactly 2 vowels.
 
 7. Create a file consisting of all the 2 letters words. Store them in a file called `2_letters_only.txt`
 
@@ -25,4 +25,4 @@ Good luck 😄
 
 9. Create a directory called **dictionary**. Change directory into **dictionary** and create 26 text files of the form `letter_a.txt`, `letter_b.txt`, ... `letter_z.txt`, one for every letter of the English alphabet. HINT: There is a quick way of doing this sort of thing. Look into expansions.
 
-10. For each word in the word list channel the words starting with a given letter into each of the 26 word files you've just created. I.e. all the words starting with a into `letter_a.txt` etc.
+10. For each word in the word list channel the words starting with a given letter into each of the 26 word files you've just created. i.e. all the words starting with a into `letter_a.txt` etc.
