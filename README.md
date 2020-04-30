@@ -9,7 +9,7 @@ Good luck 😄
 
 1. Create a file called `first_10_words.txt` with the first 10 words from the word_list. Research the `head` command for this one.
 
-2. Create a file called `last_10_words.txt` with the last 10 words from my_word_list.
+2. Create a file called `last_10_words.txt` with the last 10 words from `word_list`.
 
 3. Create a file called `word_count.txt` containing a count of all the words in the `word_list`.
 
