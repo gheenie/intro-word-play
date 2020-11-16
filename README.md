@@ -26,4 +26,4 @@ Research `grep` or `egrep` for this problem.
 
 7. Create a file consisting of all the 2 letters words. Store them in a file called `2_letters_only.txt`
 
-8. Create a file containig a count of all the words starting with p to all the words starting with r - store the count in a file called `p_to_r.txt`. **Add** a word count to the end of the `p_to_r.txt` with a word count for the file.
+8. Create a file containing a count of all the words starting with p to all the words starting with r - store the count in a file called `p_to_r.txt`. **Add** a word count to the end of the `p_to_r.txt` with a word count for the file.
